@@ -15,3 +15,4 @@ Anggota kelompok:
 ---
 ## Kendala
 - Penghitungan memakan waktu lama karena kami masih bingung dalam perhitungan VLSM dan CIDR
+- Belum familiar dengan CPT
