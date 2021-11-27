@@ -24,6 +24,7 @@ Jumlah IP dan labeling netmask
 | A11 | 2 | /30 |
 | A12 | 701 | /22 |
 | A13 | 1001 | /22 |
+| **Total** | 5841 | /19 |
 
 ---
 ## CIDR - GNS3
