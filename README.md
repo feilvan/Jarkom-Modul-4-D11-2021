@@ -27,7 +27,7 @@ Jumlah IP dan labeling netmask
 | **Total** | 5841 | /19 |
 
 ### Tree VLSM
-![image](https://user-images.githubusercontent.com/90237196/143682536-1faed369-6fa4-4a11-86b2-785f7e07fdc9.png)
+
 
 Beberapa percobaan ping di CPT
 ![image](https://user-images.githubusercontent.com/73324192/143682800-257fdb4f-73cf-4420-a7df-bc436c7b8569.png)
@@ -52,7 +52,7 @@ Iterasi 8
 ![Untitled - Frame 23](https://user-images.githubusercontent.com/68769284/143685013-5ef189c4-e01b-4fab-8163-8317d03b3ab0.jpg)
 
 ### Tree CIDR
-![Concept Map - Frame 2](https://user-images.githubusercontent.com/68769284/143685937-7f7319df-2c56-4020-8903-8f244b4d9886.jpg)
+![Concept Map - Frame 2 (1)](https://user-images.githubusercontent.com/68769284/143686346-ddc4ebff-3f30-4d09-a4a1-d3f8ee064f94.jpg)
 
 ### Membuat Topologi pada GNS3
 ![WhatsApp Image 2021-11-27 at 19 54 54](https://user-images.githubusercontent.com/68769284/143685970-aa215b26-7146-4109-994c-caef3df4287a.jpeg)
