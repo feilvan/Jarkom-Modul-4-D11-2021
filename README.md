@@ -26,6 +26,9 @@ Jumlah IP dan labeling netmask
 | A13 | 1001 | /22 |
 | **Total** | 5841 | /19 |
 
+### Tree VLSM
+![image](https://user-images.githubusercontent.com/90237196/143682536-1faed369-6fa4-4a11-86b2-785f7e07fdc9.png)
+
 ---
 ## CIDR - GNS3
 ![unnamed](https://user-images.githubusercontent.com/73324192/143679901-93cd5d5e-8346-4fb1-9c38-2a294400d7cc.png)
