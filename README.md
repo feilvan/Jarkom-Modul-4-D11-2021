@@ -27,7 +27,7 @@ Jumlah IP dan labeling netmask
 | **Total** | 5841 | /19 |
 
 ### Tree VLSM
-![image](https://user-images.githubusercontent.com/90237196/143686531-d44f8858-777f-40d8-9d60-6db554d0b1b2.png)
+![image](https://user-images.githubusercontent.com/90237196/143686552-52b2feeb-f3cd-471e-ba8c-85f515438c50.png)
 
 
 Beberapa percobaan ping di CPT
