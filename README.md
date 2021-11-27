@@ -52,6 +52,12 @@ Iterasi 8
 ![Untitled - Frame 23](https://user-images.githubusercontent.com/68769284/143685013-5ef189c4-e01b-4fab-8163-8317d03b3ab0.jpg)
 
 ### Tree CIDR
+![Concept Map - Frame 2](https://user-images.githubusercontent.com/68769284/143685937-7f7319df-2c56-4020-8903-8f244b4d9886.jpg)
+
+### Membuat Topologi pada GNS3
+![WhatsApp Image 2021-11-27 at 19 54 54](https://user-images.githubusercontent.com/68769284/143685970-aa215b26-7146-4109-994c-caef3df4287a.jpeg)
+
+
 
 ---
 ## Kendala
