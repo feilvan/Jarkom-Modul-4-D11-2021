@@ -7,3 +7,7 @@ Anggota kelompok:
 ---
 
 ![image](https://user-images.githubusercontent.com/73324192/143679610-8efd55cc-2819-4dcf-9dbd-a8f7ef90224f.png)
+
+---
+## Kendala
+- Penghitungan memakan waktu lama karena kami masih bingung dalam perhitungan VLSM dan CIDR
